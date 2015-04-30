@@ -4,7 +4,7 @@
   <title><![CDATA[5sky engineer]]></title>
   <link href="http://nobita-isc.github.io/atom.xml" rel="self"/>
   <link href="http://nobita-isc.github.io/"/>
-  <updated>2013-05-13T00:05:33+09:00</updated>
+  <updated>2015-04-30T16:54:17+07:00</updated>
   <id>http://nobita-isc.github.io/</id>
   <author>
     <name><![CDATA[Vu Xuan Duong]]></name>
@@ -14,9 +14,50 @@
 
   
   <entry>
+    <title type="html"><![CDATA[2015/04/30 Diary of an Android programmer]]></title>
+    <link href="http://nobita-isc.github.io/blog/2015/04/30/diary-of-an-android-programmer/"/>
+    <updated>2015-04-30T00:00:00+07:00</updated>
+    <id>http://nobita-isc.github.io/blog/2015/04/30/diary-of-an-android-programmer</id>
+    <content type="html"><![CDATA[<h2>30-Apr-2015</h2>
+
+<p>Yesterday, I started learning Android programming from scatch after a long
+thought. Why a long thought? To make a long story short, I have NOT coded any
+thing for the last 3 years, now I decided to coding and making some interesting
+stuffs by my own.</p>
+
+<p>It seems to be not easy as it looks because technology &amp; new android version is
+changing/releasing in a shorter period of time, and catching up with that
+requires greate effort &amp; time, but on the other hand, I am stucking in current
+boring job (which I really don’t see my passion in it).</p>
+
+<p>Time to change. I suppose. Even if I am out of date, it is time to catch up with
+new tech &amp; fun, time to see &amp; meet more friend. I need to be a stronger
+personality, now, no more delay to any specific time in the future anymore.
+Current job does not feed my soul, my curiousity or my passion.</p>
+
+<p>Time to change, time to chase my dream</p>
+
+<p>OK, just start, with some questions still I have no answer below:</p>
+
+<ol>
+<li><strong>Why Android studio(IDE) says that ActionBarActivity is deprecated ?</strong></li>
+</ol>
+
+
+<p>Answer:</p>
+
+<p>….Coming soon&hellip;</p>
+
+<p>Cheers,</p>
+
+<p>nobita-isc</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://nobita-isc.github.io/blog/2013/05/12/hello-world/"/>
-    <updated>2013-05-12T00:00:00+09:00</updated>
+    <updated>2013-05-12T00:00:00+07:00</updated>
     <id>http://nobita-isc.github.io/blog/2013/05/12/hello-world</id>
     <content type="html"><![CDATA[<p>Welcome to my new blog, hope you will have a lot of fun here !</p>
 
