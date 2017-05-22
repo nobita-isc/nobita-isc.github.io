@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Machine Learning blog"
+title:  "Sota Tek Machine Learning blog"
 date:   2017-05-21 16:45:07 +0700
 categories: misc
 author: nobita-isc
