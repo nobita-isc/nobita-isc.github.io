@@ -23,7 +23,7 @@ github_username:  nobita-isc
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
