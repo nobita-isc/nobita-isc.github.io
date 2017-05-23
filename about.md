@@ -8,4 +8,4 @@ We are a global software company based in Hanoi, Vietnam. Our major customers ar
 
 This is official machine learning blog of Sota Tek, which derives from official [blog](http://sotatek.com/blog), aims to develop machine learning skills for our engineers and to share our know-how with outside company's engineers.
 
-We are always eager to learn, try and work hard. For just 1 future golds: Become State of the art Technology Company.
+We are always eager to learn, ready to try and work hard. For just 1 future golds: Become State of the art Technology Company.

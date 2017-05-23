@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine Learning
-email: duongvuxuan@gmail.com
+title: SotaML Blog
+email: ml@sotatek.com
+author: SotaML group
 description: > # this means to ignore newlines until "baseurl:"
-  Powered by Sota Tek engineers
+  Powered by Sota Tek., JSC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nobita-isc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nobita-isc
