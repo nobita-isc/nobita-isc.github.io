@@ -21,13 +21,13 @@ yyyy-mm-dd-post-name-in-english.markdown
 
 Sau khi được merge, nội dung bài viết sẽ được tự động đưa lên [blog SotaML](http://ml.sotatek.com).
 
-### Guidline setup blog
+### How to setup
 
 Blog này sử dụng [jekyll](https://jekyllrb.com/) để compile static html file. Hãy tham khảo hướng dẫn cài đặt trên trang chủ của [jekyll](https://jekyllrb.com/).
 
 Ruby cần phải được cài đặt trước khi thực hiện cài đặt jekyll.
 
-### Một vài command-line hay dùng
+### Frequently used command-line
 
 Tạo một localhost web server để xem trước nội dung bài viết.
 ```
