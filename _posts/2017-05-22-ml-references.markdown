@@ -29,6 +29,8 @@ Blog bằng tiếng Việt. Nên với ai hơi kém tiếng Anh một chút thì
 
 Cái số 6 này nhìn tưởng ngon ăn nhưng không có nội công căn cơ thì không học được đâu, nên đừng lao đầu vào số 6 này vội :D
 
+[7] [Machine Learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
 ### Các group về Big Data, Machine Learning trên facebook
 [1] [Forum Machine Learning cơ bản](https://www.facebook.com/groups/257768141347267/)
 
